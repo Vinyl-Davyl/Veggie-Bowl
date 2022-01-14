@@ -419,7 +419,7 @@ img{
 
 .footer__logo{
   font-size: var(--h3-font-size);
-  color: white;
+  color: var(--first-color);
   font-weight: var(--font-semi-bold);
 }
 
